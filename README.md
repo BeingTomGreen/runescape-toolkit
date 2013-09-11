@@ -1,2 +1,2 @@
-runescape-toolkit
+Runescape Tsoolkit
 =================
