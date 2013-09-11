@@ -1,0 +1,17 @@
+﻿Build started 16/06/2013 11:09:13.
+     1>Project "C:\Users\Chris\documents\visual studio 2012\Projects\rstoolkit C++\rstoolkit C++\rstoolkit C++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\rstoolkit C++.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Net.Http.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "rstoolkit C++.cpp"
+         rstoolkit C++.cpp
+     1>c:\users\chris\documents\visual studio 2012\projects\rstoolkit c++\rstoolkit c++\MainProgram.h(2414): error C2086: 'System::DateTime rstoolkitC::Form1::updatetime' : redefinition
+                 c:\users\chris\documents\visual studio 2012\projects\rstoolkit c++\rstoolkit c++\MainProgram.h(2404) : see declaration of 'rstoolkitC::Form1::updatetime'
+     1>c:\users\chris\documents\visual studio 2012\projects\rstoolkit c++\rstoolkit c++\MainProgram.h(2415): error C3149: 'System::String' : cannot use this type here without a top-level '^'
+     1>c:\users\chris\documents\visual studio 2012\projects\rstoolkit c++\rstoolkit c++\MainProgram.h(2463): error C3149: 'System::String' : cannot use this type here without a top-level '^'
+     1>c:\users\chris\documents\visual studio 2012\projects\rstoolkit c++\rstoolkit c++\MainProgram.h(2465): error C2228: left of '.Length' must have class/struct/union
+                 type is 'System::String ^'
+                 did you intend to use '->' instead?
+     1>Done Building Project "C:\Users\Chris\documents\visual studio 2012\Projects\rstoolkit C++\rstoolkit C++\rstoolkit C++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.62

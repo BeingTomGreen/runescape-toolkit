@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rstoolkit C++.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AssemblyInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="app.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\agility.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\agility.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\attack.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\attack.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\attack.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\baattackers.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\bacollectors.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\badefenders.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\bahealers.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\bountyhunterrogues.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\bountyhunters.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\castlewarsgames.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\conquest.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\constitution.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\constitution.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\construction.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\construction.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\cooking.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\cooking.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\crafting.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\crafting.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\defence.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\defence.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\dominiontower.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\dueltournament.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\dungeoneering.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\dungeoneering.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\face.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\farming.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\farming.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\firemaking.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\firemaking.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\fishing.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\fishing.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\fistofguthix.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\fletching.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\fletching.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\herblore.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\herblore.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\hiscoretab d.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\hiscoretab.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\hunter.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\hunter.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\l.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\magic.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\magic.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_ba_attacker.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_ba_collector.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_ba_defender.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_ba_healer.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_bountyhunter_hunters.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_bountyhunter_rogues.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_castlewars.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_conquest.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_dueltournaments.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_fog.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\minigame_ma.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\mining.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\mining.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\mobilisingarmies.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\overall.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\overall.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\prayer.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\prayer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\ranged.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\ranged.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\runecrafting.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\runecrafting.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\slayer.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\slayer.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\smithing.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\smithing.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\strength.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\strength.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\summoning.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\summoning.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\The_Crucible_icon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\thieving.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\thieving.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\woodcutting.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\woodcutting.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Dropbox\Public\Google Drive\RSToolkit\rstoolkit\rstoolkit\Resources\id_dsa">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
